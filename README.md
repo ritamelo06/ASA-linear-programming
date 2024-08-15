@@ -1,2 +1,2 @@
-# ASA-linear-programming
-Project 3 - Analysis and Synthesis of Algorithms 23/24
+# Project 3 - ASA
+Solving a linear programming problem in Python with PuLP library.
